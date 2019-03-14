@@ -2,7 +2,7 @@
 
 [![Package Status](https://img.shields.io/npm/v/@percy/puppeteer.svg)](https://www.npmjs.com/package/@percy/puppeteer)
 
-[Percy](https://percy.io) visual testing for Google Puppeteer.
+[Percy](https://percy.io) visual testing for Google Puppeteer
 
 ## Resources
 
